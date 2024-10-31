@@ -9,7 +9,7 @@ Project Silhouette is a project that unites all aspects of technology into one.
 This project aims to build every aspect of technology from scratch, including operating systems, programming languages, web development frameworks, mobile development frameworks, and more.
 
 # Plan Project
-- Kaze Operating System: Minimal operating system (OS) designed with a simple, in-memory filesystem. The OS is written in a combination of Assembly and C, focusing on providing basic filesystem functionalities, like file creation, reading, writing, listing, and deletion.
+- [Kaze Operating System](https://github.com/Jahirrrr/kaze-os): Minimal operating system (OS) designed with a simple, in-memory filesystem. The OS is written in a combination of Assembly and C, focusing on providing basic filesystem functionalities, like file creation, reading, writing, listing, and deletion.
 - Silhouette Programming Languages: an Programming language that can be used more simply and easily, Designed to make it easier for Developers.
 - Tsumugi :  Modern, fast, and secure web development framework designed to streamline your development process and help you build scalable applications with ease.
 - Totoro : Modern, fast, and secure mobile app development framework
